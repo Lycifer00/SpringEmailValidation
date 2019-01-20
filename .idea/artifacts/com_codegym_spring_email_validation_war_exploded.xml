@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="com.codegym.spring-email-validation:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_codegym_spring_email_validation_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="com.codegym.spring-email-validation/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.17.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
